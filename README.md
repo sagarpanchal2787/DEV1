@@ -1,2 +1,7 @@
 # DEV1
-first hands on experience
+It's a markdown file in this repository.
+
+This repository is created for the GitHub lab assignment.
+
+Author:
+Sagar Panchal
